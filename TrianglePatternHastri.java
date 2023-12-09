@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class TrianglePatternHastri {
     public static void main(String[] args) {
         int n = 5; // Jumlah baris maksimum di tengah segitiga
